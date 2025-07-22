@@ -51,5 +51,5 @@ Learners also apply statistical functions and create graphical user interfaces t
 
 ---
 
-Feel free to ask if you want me to help you customize this further or prepare example README files for your specific coursework files!
+
 
